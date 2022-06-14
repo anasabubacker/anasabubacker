@@ -1,14 +1,9 @@
-[
-    {
-      "relation": [
-        "delegate_permission/common.handle_all_urls"
-      ],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.squline.student.android.staging",
-        "sha256_cert_fingerprints": [
-          "5D:A1:42:B6:0E:5A:A9:D1:94:B0:21:20:2D:2D:2F:65:70:1A:4F:0D:CC:6B:5B:A6:67:1E:B3:38:EC:57:BD:30"
-        ]
-      }
-    }
-]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.squline.student.android.staging",
+    "sha256_cert_fingerprints":
+    ["C8:9B:22:F3:C0:85:B4:A2:7A:8E:E2:57:08:30:8F:12:CB:C2:FB:EF:EF:BE:34:B9:CF:DF:B5:59:C8:17:4E:55"]
+  }
+}]
